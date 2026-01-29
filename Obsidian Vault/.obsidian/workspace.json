@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络/IP.md",
+                "file": "网络/域名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IP"
+              "title": "域名"
             }
           }
         ],
@@ -188,8 +188,9 @@
   },
   "active": "e4d227605fd75cbc",
   "lastOpenFiles": [
-    "网络/RESTful.md",
     "网络/IP.md",
+    "网络/域名.md",
+    "网络/RESTful.md",
     "2026-01-29.md",
     "网络/Http消息.md",
     "网络/image/Http交互示意图.png",
