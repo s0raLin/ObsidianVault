@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/DOM.md",
+                "file": "JS全栈/XSS攻击.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOM"
+              "title": "XSS攻击"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/DOM.md",
+                "file": "JS全栈/XSS攻击.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "DOM 的大纲"
+              "title": "XSS攻击 的大纲"
             }
           },
           {
@@ -210,13 +210,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cb760d23968fc42",
+  "active": "e4d227605fd75cbc",
   "lastOpenFiles": [
+    "JS全栈/前端入门.md",
+    "JS全栈/XSS攻击.md",
+    "HTML/DOM.md",
+    "JS全栈",
     "HTML/image",
     "HTML/image/DOM树.png",
     "HTML/HTML基础知识.md",
-    "HTML/DOM.md",
-    "HTML/DOM.md",
     "网络/域名.md",
     "HTML",
     "网络/image/域名结构.png",
