@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS全栈/XSS攻击.md",
+                "file": "JS全栈/浏览器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XSS攻击"
+              "title": "浏览器"
             }
           }
         ],
@@ -212,8 +212,9 @@
   },
   "active": "e4d227605fd75cbc",
   "lastOpenFiles": [
-    "JS全栈/前端入门.md",
     "JS全栈/XSS攻击.md",
+    "JS全栈/浏览器.md",
+    "JS全栈/前端入门.md",
     "HTML/DOM.md",
     "JS全栈",
     "HTML/image",
