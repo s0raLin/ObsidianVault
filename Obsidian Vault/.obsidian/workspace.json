@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/单位.md",
+                "file": "前端/外边距和内边距.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "单位"
+              "title": "外边距和内边距"
             }
           }
         ],
@@ -227,8 +227,15 @@
   },
   "active": "53c2167689f76d2d",
   "lastOpenFiles": [
-    "前端/HTML表单.md",
     "前端/单位.md",
+    "前端/外边距和内边距.md",
+    "前端/images/vmin和vmax.png",
+    "前端/images/vmax.png",
+    "前端/HTML表单.md",
+    "网络/IP.md",
+    "前端/images/vmin.png",
+    "前端/images",
+    "前端/images/vw和vh.png",
     "Pasted image 20260201212712.png",
     "CSS/CSS选择器.md",
     "前端",
@@ -257,13 +264,11 @@
     "网络/域名.md",
     "HTML",
     "网络/image/域名结构.png",
-    "网络/IP.md",
     "网络/RESTful.md",
     "2026-01-29.md",
     "网络/Http消息.md",
     "网络/image/Http交互示意图.png",
     "Excalidraw/Drawing 2026-01-29 18.12.14.excalidraw.md",
-    "未命名.base",
     "未命名.canvas",
     "欢迎.md"
   ]
