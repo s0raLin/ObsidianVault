@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/CSS选择器.md",
+                "file": "前端/单位.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS选择器"
+              "title": "单位"
             }
           }
         ],
@@ -225,11 +225,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cb760d23968fc42",
+  "active": "53c2167689f76d2d",
   "lastOpenFiles": [
-    "HTML表单",
-    "CSS/如何使用CSS?.md",
+    "前端/HTML表单.md",
+    "前端/单位.md",
+    "Pasted image 20260201212712.png",
     "CSS/CSS选择器.md",
+    "前端",
+    "CSS/如何使用CSS?.md",
     "CSS/什么是CSS?.md",
     "UI和UX/页面元素.md",
     "CSS",
@@ -262,7 +265,6 @@
     "Excalidraw/Drawing 2026-01-29 18.12.14.excalidraw.md",
     "未命名.base",
     "未命名.canvas",
-    "网络/image",
     "欢迎.md"
   ]
 }
