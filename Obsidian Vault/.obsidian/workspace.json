@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/宽度和高度.md",
+                "file": "前端/定位.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "宽度和高度"
+              "title": "定位"
             }
           }
         ],
@@ -225,21 +225,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53c2167689f76d2d",
+  "active": "4cb760d23968fc42",
   "lastOpenFiles": [
+    "前端/images/移除限制点的粘性定位.gif",
+    "前端/images/粘性定位.gif",
+    "Pasted image 20260202133920.png",
+    "前端/images/固定布局.gif",
+    "Pasted image 20260202133109.png",
+    "前端/images/相对定位和绝对定位的区别.png",
+    "JS全栈/浏览器.md",
+    "前端/定位.md",
+    "前端/images/奇数向左，偶数向右.png",
+    "前端/images/四个位置相对的方块.png",
+    "前端/images/填充宽度.png",
+    "前端/images/填充高度.png",
+    "前端/images/绝对定位抽离.png",
     "前端/外边距和内边距.md",
     "前端/宽度和高度.md",
-    "前端/images/Padding.png",
-    "前端/images/Margin.png",
     "前端/单位.md",
-    "前端/images/vmin和vmax.png",
-    "前端/images/vmax.png",
     "前端/HTML表单.md",
     "网络/IP.md",
-    "前端/images/vmin.png",
     "前端/images",
-    "前端/images/vw和vh.png",
-    "Pasted image 20260201212712.png",
     "CSS/CSS选择器.md",
     "前端",
     "CSS/如何使用CSS?.md",
@@ -248,11 +254,9 @@
     "CSS",
     "UI和UX/网格布局.md",
     "UI和UX/images",
-    "UI和UX/images/网格布局.png",
     "操作系统/文件权限.md",
     "UI和UX",
     "操作系统/压缩和解压缩.md",
-    "JS全栈/浏览器.md",
     "操作系统",
     "HTML/HTML基础知识.md",
     "Excalidraw/Drawing 2026-01-31 21.18.28_0.excalidraw.md",
@@ -263,15 +267,12 @@
     "HTML/DOM.md",
     "JS全栈",
     "HTML/image",
-    "HTML/image/DOM树.png",
     "网络/域名.md",
     "HTML",
-    "网络/image/域名结构.png",
     "网络/RESTful.md",
     "2026-01-29.md",
     "网络/Http消息.md",
     "Excalidraw/Drawing 2026-01-29 18.12.14.excalidraw.md",
-    "未命名.canvas",
-    "欢迎.md"
+    "未命名.canvas"
   ]
 }
