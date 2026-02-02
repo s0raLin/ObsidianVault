@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/Float和Clear.md",
+                "file": "前端/Flexbox(盒子弹性布局).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Float和Clear"
+              "title": "Flexbox(盒子弹性布局)"
             }
           }
         ],
@@ -227,8 +227,9 @@
   },
   "active": "53c2167689f76d2d",
   "lastOpenFiles": [
-    "前端/定位.md",
     "前端/Float和Clear.md",
+    "前端/Flexbox(盒子弹性布局).md",
+    "前端/定位.md",
     "前端/images/移除限制点的粘性定位.gif",
     "前端/images/粘性定位.gif",
     "Pasted image 20260202133920.png",
@@ -272,7 +273,6 @@
     "网络/RESTful.md",
     "2026-01-29.md",
     "网络/Http消息.md",
-    "Excalidraw/Drawing 2026-01-29 18.12.14.excalidraw.md",
     "未命名.canvas"
   ]
 }
