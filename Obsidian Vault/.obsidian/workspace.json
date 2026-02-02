@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/Float属性.md",
+                "file": "前端/Float和Clear.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Float属性"
+              "title": "Float和Clear"
             }
           }
         ],
@@ -228,7 +228,7 @@
   "active": "53c2167689f76d2d",
   "lastOpenFiles": [
     "前端/定位.md",
-    "前端/Float属性.md",
+    "前端/Float和Clear.md",
     "前端/images/移除限制点的粘性定位.gif",
     "前端/images/粘性定位.gif",
     "Pasted image 20260202133920.png",
