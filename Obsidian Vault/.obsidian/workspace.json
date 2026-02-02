@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/定位.md",
+                "file": "前端/Float属性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "定位"
+              "title": "Float属性"
             }
           }
         ],
@@ -225,8 +225,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cb760d23968fc42",
+  "active": "53c2167689f76d2d",
   "lastOpenFiles": [
+    "前端/定位.md",
+    "前端/Float属性.md",
     "前端/images/移除限制点的粘性定位.gif",
     "前端/images/粘性定位.gif",
     "Pasted image 20260202133920.png",
@@ -234,12 +236,10 @@
     "Pasted image 20260202133109.png",
     "前端/images/相对定位和绝对定位的区别.png",
     "JS全栈/浏览器.md",
-    "前端/定位.md",
     "前端/images/奇数向左，偶数向右.png",
     "前端/images/四个位置相对的方块.png",
     "前端/images/填充宽度.png",
     "前端/images/填充高度.png",
-    "前端/images/绝对定位抽离.png",
     "前端/外边距和内边距.md",
     "前端/宽度和高度.md",
     "前端/单位.md",
