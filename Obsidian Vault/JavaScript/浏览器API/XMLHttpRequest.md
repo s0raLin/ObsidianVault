@@ -206,13 +206,4 @@ request.send();
 
 ---
 
-## 总结
 
-在本节中，你学习了：
-
-- 什么是 **XMLHttpRequest**
-- XMLHttpRequest 的 **属性、方法和事件**
-- 如何使用 XMLHttpRequest 向服务器发送请求并获取数据
-    
-
-最后，我们通过一个完整示例，直观地展示了 XMLHttpRequest 的实际用法。
