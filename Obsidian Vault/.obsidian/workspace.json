@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/浏览器API/Web Storage API.md",
+                "file": "前端/包管理器/Node.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Storage API"
+              "title": "Node.js"
             }
           }
         ],
@@ -255,8 +255,10 @@
   },
   "active": "5d8b0cb2f158913f",
   "lastOpenFiles": [
-    "JavaScript/浏览器API/window 对象.md",
     "JavaScript/浏览器API/Web Storage API.md",
+    "前端/包管理器/Node.js.md",
+    "前端/包管理器",
+    "JavaScript/浏览器API/window 对象.md",
     "JavaScript/浏览器API/本地存储.md",
     "JavaScript/images/Firefox_JSON.png",
     "JavaScript/images",
@@ -285,7 +287,6 @@
     "JavaScript/未命名.md",
     "JavaScript/基础/async和await.md",
     "JavaScript/基础/Promise方法解析.md",
-    "JavaScript/基础/Promise.md",
     "JavaScript",
     "前端/images/移除限制点的粘性定位.gif",
     "前端/images/粘性定位.gif",
@@ -300,7 +301,6 @@
     "CSS",
     "UI和UX/images",
     "UI和UX",
-    "操作系统",
     "未命名.canvas"
   ]
 }
