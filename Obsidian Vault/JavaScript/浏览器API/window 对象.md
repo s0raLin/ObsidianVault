@@ -53,3 +53,5 @@ confirm("Hello World");
 * 点击**OK**返回`true`
 * 点击**Cancel**返回`false`
 
+
+[更多方法](https://developer.mozilla.org/en-US/docs/Web/API/Window)
