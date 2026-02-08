@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/React/JSX.md",
+                "file": "前端/React/组件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JSX"
+              "title": "组件"
             }
           }
         ],
@@ -255,8 +255,9 @@
   },
   "active": "5d8b0cb2f158913f",
   "lastOpenFiles": [
-    "前端/React/创建React应用.md",
     "前端/React/JSX.md",
+    "前端/React/组件.md",
+    "前端/React/创建React应用.md",
     "前端/images/React项目结构.png",
     "前端/React/React介绍和特性.md",
     "前端/HTML表单.md",
@@ -286,7 +287,6 @@
     "前端/宽度和高度.md",
     "前端/Float和Clear.md",
     "前端/定位.md",
-    "JavaScript/浏览器API/连接JavaScript到HTML.md",
     "JavaScript/浏览器API",
     "JavaScript/基础",
     "JavaScript",
