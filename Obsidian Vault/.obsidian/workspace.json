@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/React/useEffect Hook.md",
+                "file": "前端/NodeJS模块/Node.js和浏览器执行.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "useEffect Hook"
+              "title": "Node.js和浏览器执行"
             }
           }
         ],
@@ -269,8 +269,11 @@
   },
   "active": "15074f5107e83574",
   "lastOpenFiles": [
-    "前端/nodejs模块/ECMAScript模块.md",
+    "前端/NodeJS模块/ECMAScript模块.md",
+    "前端/NodeJS模块/Node.js和浏览器执行.md",
     "前端/React/useEffect Hook.md",
+    "前端/NodeJS模块",
+    "前端/nodejs模块/ECMAScript模块.md",
     "前端/nodejs模块",
     "前端/React/React Hooks.md",
     "前端/React/类组件.md",
@@ -301,8 +304,6 @@
     "JavaScript/images/teachers.png",
     "JavaScript/浏览器API/FetchAPI.md",
     "JavaScript/浏览器API/JSON.md",
-    "JavaScript/浏览器API/DOM方法-修改文档元素.md",
-    "JavaScript/浏览器API/DOM方法-获取文档元素.md",
     "JavaScript/浏览器API",
     "JavaScript/基础",
     "JavaScript",
@@ -314,7 +315,6 @@
     "前端/images/相对定位和绝对定位的区别.png",
     "前端/images",
     "前端",
-    "CSS",
     "未命名.canvas"
   ]
 }
