@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/NodeJS模块/Node.js HTTP.md",
+                "file": "前端/NodeJS模块/HTTP请求.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Node.js HTTP"
+              "title": "HTTP请求"
             }
           },
           {
@@ -255,8 +255,10 @@
   },
   "active": "a4f29cd7e73b00f1",
   "lastOpenFiles": [
-    "前端/NodeJS模块/Promise.md",
+    "前端/NodeJS模块/Node.js 路由概述.md",
+    "前端/NodeJS模块/HTTP请求.md",
     "前端/NodeJS模块/Node.js HTTP.md",
+    "前端/NodeJS模块/Promise.md",
     "前端/NodeJS模块/Node.js文件属性.md",
     "前端/NodeJS模块/Node.js fs模块.md",
     "前端/images/初始项目.png",
@@ -287,8 +289,6 @@
     "前端/NodeJS模块",
     "前端/nodejs模块/ECMAScript模块.md",
     "前端/nodejs模块",
-    "前端/React/React Hooks.md",
-    "前端/React/类组件.md",
     "前端/images/生命周期.png",
     "前端/images/React项目结构.png",
     "前端/React",
