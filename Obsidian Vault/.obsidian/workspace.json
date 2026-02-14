@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/NodeJS高级功能/Node.js 工作线程.md",
+                "file": "前端/NodeJS高级功能/Node.js console模块.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Node.js 工作线程"
+              "title": "Node.js console模块"
             }
           }
         ],
@@ -255,8 +255,9 @@
   },
   "active": "15074f5107e83574",
   "lastOpenFiles": [
-    "前端/NodeJS高级功能/Node.js events模块.md",
     "前端/NodeJS高级功能/Node.js 工作线程.md",
+    "前端/NodeJS高级功能/Node.js console模块.md",
+    "前端/NodeJS高级功能/Node.js events模块.md",
     "前端/WebSocket/WebScokets和长轮询.md",
     "前端/NodeJS高级功能",
     "前端/WebSocket/SSE实时更新技术.md",
@@ -285,7 +286,6 @@
     "前端/images/Unicode.png",
     "前端/NodeJS流和缓冲区/Node.js读流.md",
     "前端/NodeJS流和缓冲区/Node.js 流.md",
-    "前端/NodeJS模块/Querystring模块.md",
     "前端/NodeJS流和缓冲区",
     "前端/images/初始项目.png",
     "前端/images/writeFile.png",
