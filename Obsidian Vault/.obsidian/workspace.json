@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/Express.js/Express.js迁移.md",
+                "file": "前端/WebSocket/WebSocket协议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Express.js迁移"
+              "title": "WebSocket协议"
             }
           }
         ],
@@ -255,8 +255,10 @@
   },
   "active": "15074f5107e83574",
   "lastOpenFiles": [
-    "前端/Express.js/什么是Express.js.md",
     "前端/Express.js/Express.js迁移.md",
+    "前端/WebSocket/WebSocket协议.md",
+    "前端/WebSocket",
+    "前端/Express.js/什么是Express.js.md",
     "前端/NodeJS流和缓冲区/Node.js 事件驱动模型.md",
     "前端/NodeJS流和缓冲区/NodeJS写流.md",
     "前端/NodeJS流和缓冲区/Streams API.md",
@@ -288,7 +290,6 @@
     "前端/NodeJS模块/NodeJS写入文件.md",
     "Pasted Image 20260210130637_422.png",
     "Pasted Image 20260210123559_195.png",
-    "Excalidraw/Drawing 2026-02-10 12.14.33.excalidraw.md",
     "Excalidraw",
     "前端/NodeJS模块",
     "前端/nodejs模块",
@@ -300,7 +301,6 @@
     "JavaScript/images",
     "JavaScript/images/teachers.png",
     "JavaScript/浏览器API",
-    "JavaScript/基础",
     "未命名.canvas"
   ]
 }
