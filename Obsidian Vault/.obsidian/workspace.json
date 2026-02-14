@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/WebSocket/WebSocket客户端搭建.md",
+                "file": "前端/WebSocket/Server-sent events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WebSocket客户端搭建"
+              "title": "Server-sent events"
             }
           }
         ],
@@ -255,8 +255,9 @@
   },
   "active": "15074f5107e83574",
   "lastOpenFiles": [
-    "前端/WebSocket/WebScoket服务器搭建.md",
     "前端/WebSocket/WebSocket客户端搭建.md",
+    "前端/WebSocket/Server-sent events.md",
+    "前端/WebSocket/WebScoket服务器搭建.md",
     "前端/WebSocket/gRPC.md",
     "前端/WebSocket/WebSocket连接与通信.md",
     "前端/WebSocket/持久连接与协议升级.md",
@@ -285,7 +286,6 @@
     "前端/NodeJS模块/Node.js HTTP模块.md",
     "前端/NodeJS模块/Web服务器.md",
     "前端/NodeJS模块/HTTP请求.md",
-    "前端/NodeJS模块/Node.js 路由概述.md",
     "前端/images/初始项目.png",
     "前端/images/writeFile.png",
     "前端/images/writeFileSync.png",
