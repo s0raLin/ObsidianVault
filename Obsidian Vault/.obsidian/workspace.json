@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/WebSocket/WebScokets和长轮询.md",
+                "file": "前端/NodeJS高级功能/Node.js events模块.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WebScokets和长轮询"
+              "title": "Node.js events模块"
             }
           }
         ],
@@ -255,8 +255,10 @@
   },
   "active": "15074f5107e83574",
   "lastOpenFiles": [
-    "前端/WebSocket/SSE实时更新技术.md",
     "前端/WebSocket/WebScokets和长轮询.md",
+    "前端/NodeJS高级功能/Node.js events模块.md",
+    "前端/NodeJS高级功能",
+    "前端/WebSocket/SSE实时更新技术.md",
     "前端/WebSocket/Server-sent events.md",
     "前端/WebSocket/WebSocket客户端搭建.md",
     "前端/WebSocket/WebScoket服务器搭建.md",
@@ -285,7 +287,6 @@
     "前端/NodeJS模块/Querystring模块.md",
     "前端/NodeJS流和缓冲区",
     "前端/NodeJS模块/URL模块.md",
-    "前端/NodeJS模块/Node.js HTTP模块.md",
     "前端/images/初始项目.png",
     "前端/images/writeFile.png",
     "前端/images/writeFileSync.png",
@@ -299,7 +300,6 @@
     "前端/React",
     "前端/包管理器",
     "JavaScript/images/Firefox_JSON.png",
-    "JavaScript/images",
     "JavaScript/images/teachers.png",
     "未命名.canvas"
   ]
