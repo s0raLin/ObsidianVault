@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/NodeJS入门.md",
+                "file": "NodeJS/02Buffer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NodeJS入门"
+              "title": "02Buffer"
             }
           }
         ],
@@ -253,10 +253,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cb760d23968fc42",
+  "active": "15074f5107e83574",
   "lastOpenFiles": [
+    "NodeJS/01NodeJS入门.md",
+    "NodeJS/02Buffer.md",
     "前端/NodeJS模块/NodeJS文件监听器.md",
-    "NodeJS/NodeJS入门.md",
     "NodeJS",
     "前端/NodeJS模块/NodeJS写入文件.md",
     "前端/NodeJS模块/NodeJS文件系统.md",
@@ -284,7 +285,6 @@
     "前端/Express.js/什么是Express.js.md",
     "前端/NodeJS流和缓冲区/Node.js 事件驱动模型.md",
     "前端/NodeJS流和缓冲区/NodeJS写流.md",
-    "前端/NodeJS流和缓冲区/Streams API.md",
     "前端/Express.js",
     "前端/images/Unicode.png",
     "前端/NodeJS流和缓冲区",
