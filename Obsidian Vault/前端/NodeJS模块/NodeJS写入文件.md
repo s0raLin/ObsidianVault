@@ -23,7 +23,13 @@ fs.writeFile(file, data, [options], callback)
 
 暂时不考虑 `options`，我们先实现最基础的写入功能：
 ```js
-const fs = require('node:fs');
+const fs = require('node:fsimport fs from 'node:fs';
+
+fs.readFile('./source.js', 'utf-8', (err, data) => {
+    if (err) throw err;
+
+    console.log(data);
+});');
 
 const firstNote =
   'Dates: 25/12 - 01/01, Heathrow airport 9:15 AM, need to book a room';

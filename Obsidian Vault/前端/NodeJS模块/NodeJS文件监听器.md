@@ -32,7 +32,7 @@ fs.watch(filename[,options], callback)
     - `persistent`
     - `recursive`
     - `encoding`
-    - `signal`
+()    - `signal`
 - `callback`（回调函数）  
     在每次文件或目录发生变化时触发，包含两个参数：
     - `eventType` —— `"rename"` 或 `"change"`
