@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "ECMAScript模块"
             }
+          },
+          {
+            "id": "88d0de02c3e53cb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构和算法/动态数组.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "动态数组"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -253,8 +267,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15074f5107e83574",
+  "active": "88d0de02c3e53cb9",
   "lastOpenFiles": [
+    "Pasted image 20260305200019.png",
+    "数据结构和算法/images/指定位置插入.png",
+    "数据结构和算法/images/动态数组.png",
+    "数据结构和算法/固定大小数组.md",
+    "数据结构和算法/动态数组.md",
+    "数据结构和算法/images/修改元素.svg",
+    "数据结构和算法/images/访问元素.png",
+    "数据结构和算法/images/插入和删除元素.png",
+    "数据结构和算法/images/字符数组.png",
+    "数据结构和算法/images",
+    "数据结构和算法/images/浮点数数组.png",
+    "数据结构和算法",
     "前端/包管理器/模块导入与导出.md",
     "前端/包管理器/包管理器.md",
     "操作系统/压缩和解压缩.md",
@@ -280,27 +306,15 @@
     "前端/WebSocket/WebScoket服务器搭建.md",
     "前端/WebSocket/gRPC.md",
     "前端/WebSocket/WebSocket连接与通信.md",
-    "前端/WebSocket/持久连接与协议升级.md",
-    "前端/WebSocket/WebSocket协议.md",
     "WebSocket",
-    "前端/Express.js/Express.js迁移.md",
     "前端/WebSocket",
     "前端/Express.js",
     "前端/images/Unicode.png",
     "前端/NodeJS流和缓冲区",
     "前端/images/初始项目.png",
     "前端/images/writeFile.png",
-    "前端/images/writeFileSync.png",
-    "Pasted Image 20260210130637_422.png",
-    "Pasted Image 20260210123559_195.png",
     "Excalidraw",
     "前端/NodeJS模块",
-    "前端/nodejs模块",
-    "前端/images/生命周期.png",
-    "前端/images/React项目结构.png",
-    "前端/React",
-    "JavaScript/images/Firefox_JSON.png",
-    "JavaScript/images/teachers.png",
     "未命名.canvas"
   ]
 }
